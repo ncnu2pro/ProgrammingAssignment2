@@ -1,4 +1,5 @@
 ## URL ot the repository -> https://github.com/ncnu2pro/ProgrammingAssignment2.git
+## 40 character SHA-1 hash: 1256550601947024ed2c4b84ab97207aa47b1bf1
 ## This is R Programming Assignment 2: Lexical Scoping
 ## Write a short comment describing this function
 
